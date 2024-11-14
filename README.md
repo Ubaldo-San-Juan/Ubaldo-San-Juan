@@ -6,7 +6,7 @@
 <h1 align="center"><b>Hi , I'm Ubaldo San Juan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer..;Web+Developer..;Freelancer..;Active+Learner/Researcher..;</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=100&color=298BF7&center=true&width=435&lines=Software+Developer...;Web+Developer...;Freelancer..." alt="Typing SVG" /></a>
 </p>
 
 <br><br>
